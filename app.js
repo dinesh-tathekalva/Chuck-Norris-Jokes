@@ -1,6 +1,6 @@
-document.querySelector('.get-jokes').addEventListener('click', loadData)
+document.querySelector('.get-jokes').addEventListener('click', sindhu)
 
-function loadData(e){
+function sindhu(e){
 
     const number = document.querySelector('input[type = "number"]').value 
 
